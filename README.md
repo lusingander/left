@@ -1,6 +1,10 @@
 left
 ====
 
+left - output the left part of files (like `head`/`tail` command)
+
+## Usage
+
 ```
 $ cat foo.txt
 0123456789
