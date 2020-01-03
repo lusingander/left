@@ -1,0 +1,16 @@
+name:                left
+version:             0.1.0.0
+homepage:            https://github.com/lusingander/left
+author:              lusingander
+copyright:           2020 lusingander
+category:            Web
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+
+executables:
+  left:
+    source-dirs:      src
+    main:             Main.hs
